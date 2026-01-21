@@ -1,0 +1,10 @@
+fastapi[standard]
+pandas
+joblib
+uvicorn
+pydantic
+scikit-learn
+xgboost
+streamlit
+plotly
+openpyxl
